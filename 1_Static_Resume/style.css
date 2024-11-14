@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(61, 103, 135);
+  color: aliceblue;
+  text-align: center;
+  font-weight: bold;
+  padding: 0cap;
+  margin-inline-start: auto;
+}
+img {
+  width: 150px;
+  height: 150px;
+}
+div {
+  padding: 5px;
+  margin: 10px;
+  color: aqua;
+}
+h2 {
+  color: black;
+  font-size: bold;
+}
